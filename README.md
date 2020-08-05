@@ -16,7 +16,7 @@ You can find the Medium article with a full explanation here: https://medium.com
 
 **Further readme description, hf5 weights, pickle files and original dataset to be added soon**
 
-Data procured from: 
+Data obtained from: 
  <ul>
    <li>data/collected_data/indeed_job_dataset.csv (Training Corpus): https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
    <li>data/collected_data/skills.json (Additional Skills): https://github.com/microsoft/SkillsExtractorCognitiveSearch/tree/master/data
