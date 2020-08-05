@@ -1,3 +1,5 @@
+![Image of WordCloud](https://.github.com/giterdun345/lemma_wordcloud.png)
+
 # Job-Description-Skills-Extractor
 Given a job description, the model uses POS, Chunking and a classifier with BERT Embeddings to determine the skills therein.
 You can find the Medium article with a full explanation here: https://medium.com/@johnmketterer/automating-the-job-hunt-with-transfer-learning-part-1-289b4548943
