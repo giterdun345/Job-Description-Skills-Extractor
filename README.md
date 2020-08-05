@@ -14,7 +14,7 @@ You can find the Medium article with a full explanation here: https://medium.com
   <li> extraction_model_use: input a job description and have a csv file with the extracted skills; hf5 weights have not yet been uploaded and will also automate further for down stream task
 </ol>
 
-Further readme description, hf5 weights, pickle files and original dataset to be added soon
+**Further readme description, hf5 weights, pickle files and original dataset to be added soon**
 
 Data procured from: 
  <ul>
