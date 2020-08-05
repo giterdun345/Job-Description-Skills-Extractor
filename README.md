@@ -1,4 +1,4 @@
-![Image of WordCloud](https://.github.com/giterdun345/Job-Description-Skills-Extractor/lemma_wordcloud.png)
+![Image of WordCloud](lemma_wordcloud.png)
 
 # Job-Description-Skills-Extractor
 Given a job description, the model uses POS, Chunking and a classifier with BERT Embeddings to determine the skills therein.
