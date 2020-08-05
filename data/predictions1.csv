@@ -1,0 +1,239 @@
+extractions,prediction_prob,actual,possibility
+the hr data science analyst implements,0.973527,1,0
+analytics models,0.9113662,1,1
+solutions,0.1469695,0,0
+prescriptive insights,0.14918704,0,0
+data,0.1407662,0,0
+he/she,0.14030309,0,0
+a team,0.12965295,0,0
+research,0.13252091,0,0
+implement,0.12994641,0,0
+analytic models,1.0124222,1,0
+this position,0.1325161,0,0
+industry standard machine learning,0.98237,1,0
+data visualization tools,1.0085061,1,0
+analytics requirements,0.13208802,0,0
+predictive solutions,0.21472311,0,0
+the hr data science analyst builds,0.91520363,1,0
+runs models,0.51803607,1,1
+business problems,0.13195921,0,0
+responsibilities,0.13072747,0,0
+duties,0.15746862,0,0
+data features,0.13259526,0,0
+inputs,0.13020149,0,0
+learning/or techniques,0.14387901,0,0
+code,0.13095526,0,0
+sql,1.0006249,1,0
+r/python/scala,1.0114658,1,0
+multiple data sources,0.13269067,0,0
+correlation,0.58766025,0,1
+classification,0.15825462,0,0
+regression problem,0.34351248,0,0
+the development,0.13231415,0,0
+procedures,0.13348001,0,0
+model,0.131121,0,0
+production system performance/integrity,0.33244884,0,0
+opportunities,0.13406743,0,0
+analytics,0.9836706,1,0
+results,0.1387527,0,0
+data-driven decisions,0.98764,1,0
+visualization tools,1.0015984,1,0
+present information,0.13224669,0,0
+fact-based decision making,1.0164822,1,0
+visualization techniques,0.89661324,1,0
+supports,0.13123696,0,0
+adoption,0.13054135,0,0
+impactful visualizations,0.62878627,1,0
+internal publication,0.129908,0,0
+communication reviews visualizations,0.48187667,0,1
+data accuracy,0.88259035,1,1
+integrity,1.0073367,0,0
+business standards,0.13202274,0,0
+analytical reports,0.9864037,1,0
+complex sets,0.38533434,0,0
+associated solutions,0.12918916,0,0
+business objectives knowledge,0.3003978,0,0
+skills identifies,0.13742799,0,0
+future needs,0.13229296,0,0
+the customer,0.13073196,0,0
+business,0.13822356,0,0
+the project s requirements,0.13770682,0,0
+project direction,0.13406785,0,0
+business objectives,0.13334367,0,0
+resource allocation,0.23102003,0,0
+recommendations,0.13166644,0,0
+the solutions-design phase,0.17744958,0,0
+the project,0.13879752,0,0
+the business problem,0.13888219,0,0
+identifies sources,0.13220355,0,0
+information,0.13893063,0,0
+a problem,0.13148585,0,0
+literature,0.17487305,0,0
+the research question,0.13092524,0,0
+data sources,0.13810717,0,0
+a basic understanding,0.27741122,0,0
+a business problem,0.13281907,0,0
+a solution,0.1295654,0,0
+evaluation,0.19103232,0,0
+industry technologies,0.1310819,0,0
+understands technologies,0.14577796,0,0
+impact,0.13193205,0,0
+captures,0.19395623,0,0
+business information,0.20628442,0,0
+the business change decision-making processes,0.13832748,0,0
+the planning,0.13735858,0,0
+implementation,0.13111451,0,0
+change,0.13376474,0,0
+an understanding,0.1299505,0,0
+basic project planning processes,0.9618543,1,0
+action items,0.13498433,0,0
+resources,0.13281438,0,0
+a basic knowledge,0.1354903,0,0
+risk management fundamentals,0.9871031,1,0
+some advanced knowledge,0.45089805,0,1
+statistical analyses,0.99321234,1,0
+tests,0.13412707,0,0
+the ability,0.12916948,0,0
+outliers,0.13338706,0,0
+data sets,0.14203075,0,0
+troubleshoots,0.86001045,1,0
+statistical models,1.0006728,1,0
+basic knowledge,0.89854956,1,0
+time series analysis,1.0026886,1,0
+workday knowledge,0.6517913,1,0
+experience master,0.13277106,0,0
+degree,0.13882792,0,0
+comparable degree,0.13270946,0,0
+data science,0.9942796,1,0
+operations research,0.9777864,1,0
+mathematics,0.99953794,1,0
+statistics,0.9957093,1,0
+ups,0.406705,0,0
+an equal opportunity employer,0.12996851,0,0
+the basis,0.13258147,0,0
+race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity,0.16783738,0,0
+law,0.13394712,0,0
+hr data,0.325425,0,1
+science analyst implements,0.9832734,1,0
+models,0.13056292,0,0
+from data,0.13500777,0,0
+team,0.13142993,0,0
+position,0.12937154,0,0
+requirements,0.13039196,0,0
+into predictive solutions,0.13421099,0,0
+science analyst builds,0.6298054,1,0
+runs,0.13039248,0,0
+features,0.12922144,0,0
+as inputs,0.13016205,0,0
+from multiple data,0.13716103,0,0
+sources,0.13384484,0,0
+of data,0.1316723,0,0
+development,0.13294642,0,0
+of procedures,0.12775563,0,0
+into results,0.13400884,0,0
+of visualization tools,0.17465104,0,0
+for internal publication,0.13045734,0,0
+communication reviews,0.15601052,0,0
+visualizations,0.85453105,1,0
+for data,0.13291155,0,0
+accuracy,0.8988855,1,0
+knowledge,0.43976563,0,0
+skills,0.15427233,0,0
+identifies,0.13796367,0,0
+customer,0.13367996,0,0
+project,0.13227363,0,0
+s requirements,0.13047116,0,0
+solutions-design phase,1.022181,0,0
+business problem,0.13317892,0,0
+of information,0.129692,0,0
+problem,0.13314229,0,0
+research question,0.131524,0,0
+from data sources,0.13981748,0,0
+basic understanding,0.95442915,1,0
+solution,0.14993186,0,0
+in evaluation,0.1293993,0,0
+business change decision-making processes,0.20722322,0,1
+planning,0.29855785,0,0
+of change,0.13406317,0,0
+understanding,0.16613348,0,0
+of basic project planning processes,0.13510807,0,0
+of risk management fundamentals,0.27660948,1,1
+advanced knowledge,0.7089945,1,1
+of statistical analyses,0.9866445,1,0
+ability,0.15206166,0,0
+in data,0.13424549,0,0
+sets,0.13136177,0,0
+of time series analysis workday knowledge,0.19741896,0,0
+in data science,0.16327044,0,0
+operations,0.13609684,0,0
+equal opportunity employer,0.1381594,0,0
+basis,0.12922049,0,0
+of race/color/religion/sex/national origin/veteran/disability/age/sexual orientation/gender identity,0.14993022,0,0
+by law,0.1293045,0,0
+advanced analytics models,0.43243203,0,0
+yield,0.21189834,0,0
+works,0.12979922,0,0
+advanced,0.12879959,0,0
+leverages industry standard machine learning,0.5108334,1,1
+transform data,0.13588655,0,0
+designed,0.13143274,0,0
+solve business problems,0.13844675,0,0
+develops data features,0.6786753,1,0
+serve,0.13312173,0,0
+ai/machine learning/or techniques,1.0130197,1,0
+writes code,0.99469864,1,0
+using sql,0.5408843,1,0
+collect,0.13517378,0,0
+manipulate data,0.92098683,1,0
+explores data,0.13510951,0,0
+determine correlation,0.13189277,1,1
+domain classification,0.17352502,0,0
+assists,0.16303268,0,0
+monitor model,0.13066292,0,0
+helps,0.13586064,0,0
+identify opportunities,0.15775812,0,1
+move,0.12958519,0,0
+prescriptive analytics,0.97727525,1,0
+turn data,0.1332527,0,0
+support,0.12984979,0,0
+leverages analytics,0.93236023,1,0
+design,0.13078415,0,0
+drive,0.12923421,0,0
+demonstrates visualization techniques,0.52203435,1,0
+training,0.12959546,0,0
+encourage adoption,0.1362974,0,0
+creates,0.13629231,0,0
+facilitate communication reviews visualizations,0.27017477,1,0
+meet business standards,0.6745994,0,0
+develops,0.1756998,0,0
+represents,0.12927496,0,0
+support business objectives knowledge,0.25568718,0,0
+understands,0.13794778,0,0
+needs,0.1347662,0,0
+dictate,0.14420322,0,0
+makes recommendations,0.27505597,0,0
+requires research,0.13167334,0,0
+are,0.12948078,0,0
+reviews literature,0.14618446,0,0
+related,0.12979849,0,0
+demonstrates,0.1308217,0,0
+recommends,0.13000357,0,0
+solve,0.13455991,0,0
+participates,0.14534985,0,0
+emerging industry technologies,0.13542138,0,0
+architectures,0.13751276,1,1
+infrastructures captures,0.3302531,0,0
+disseminates,0.1822298,0,0
+facilitates,0.18324128,0,0
+including,0.13156883,0,0
+planning action items,0.12875965,0,0
+sampling,0.21556063,0,0
+identify outliers,0.23181632,0,0
+existing,0.12933384,0,0
+preferred ups,0.12939826,0,0
+is,0.12957305,0,0
+does,0.13064598,0,0
+discriminate,0.13302082,0,0
+protected,0.12957053,0,0
+"direction , business objectives ,",0.30378485,0,0
+"data science , analytics , operations research",1.0076885,1,0
